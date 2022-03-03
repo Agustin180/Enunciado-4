@@ -1,0 +1,1 @@
+-Crear 2 inputs que se sumen y sean aleatorios, cada vez que se actualize la pagina cambiaran, el usuario debe poner el resultado en un 3 input y al darle a "Comprobar" te dira si es correcto o incorrecto en caso de este ultimo te diga cual es el resultado correcto.
